@@ -4,9 +4,9 @@ import { Button } from "./ui/button";
 import { Plus, Minus } from "lucide-react";
 
 // 스킬 아이콘 임포트
-import skillIcon1 from "../../../assets/c029e702ec40abf5ec38a0636c0dab02ece7cede.png";
-import skillIcon2 from "../../../assets/74c0d69f84698654d905b58baa66e8a86b3906f1.png";
-import skillIcon3 from "../../../assets/517e09d95196599be87d3ce3eadccef99661c727.png";
+import skillIcon1 from "../../assets/c029e702ec40abf5ec38a0636c0dab02ece7cede.png";
+import skillIcon2 from "../../assets/74c0d69f84698654d905b58baa66e8a86b3906f1.png";
+import skillIcon3 from "../../assets/517e09d95196599be87d3ce3eadccef99661c727.png";
 import skillIcon4 from "../../../assets/c4712336b30c8fe64c8a2f71bafad025806e7a0c.png";
 import skillIcon5 from "../../../assets/8734d5f7905ad33421a81b09ebb04a7c29e4a51f.png";
 import skillIcon6 from "../../../assets/a9337b31dae670c11dbe532c8fd9cbe127c7d405.png";
