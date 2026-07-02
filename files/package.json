@@ -1,0 +1,9 @@
+{
+  "name": "ro-item-search",
+  "version": "1.0.0",
+  "private": true,
+  "description": "gnjoy RO 아이템 노점 실시간 검색 (개인용)",
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}
